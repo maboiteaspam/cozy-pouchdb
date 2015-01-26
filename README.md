@@ -1,6 +1,6 @@
 # Cozy PouchDB
 
-Plugin to add Pouch DB support to your Cozy-light install.
+Plugin to add Pouch DB support to your Cozy-light instance.
 
 
 ## Install
