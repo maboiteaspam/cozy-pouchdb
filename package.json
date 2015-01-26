@@ -1,0 +1,25 @@
+{
+  "name": "cozy-pouchdb",
+  "version": "1.0.0",
+  "description": "Adds PouchDB instance to Cozy-Light",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "lint": "eslint ./*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maboiteaspam/cozy-pouchdb.git"
+  },
+  "author": "maboiteaspam",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/maboiteaspam/cozy-pouchdb/issues"
+  },
+  "homepage": "https://github.com/maboiteaspam/cozy-pouchdb",
+  "dependencies": {
+    "pouchdb": "3.0.5"
+  },
+  "devDependencies": {},
+  "displayName": "Pouch DB"
+}
