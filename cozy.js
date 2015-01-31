@@ -14,7 +14,8 @@ var plugin = {
           return cozyLight.db.close(callback);
         }
       } catch (err) {
-        cozyLight.logger.error(err);
+        cozyLight.logger.warn(err);
+        cozyLight.logger.warn(err.stack);
       }
     }
     callback();
